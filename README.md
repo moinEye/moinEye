@@ -13,7 +13,6 @@ Pocket wallet: fastpay
 
 <br />
 
- Language and Tools
 *Languages and Tools:*  
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpnOMsUdVl82G3Z4xztmxSdI8pzo66DsI0YA&usqp=CAU"/>
@@ -34,7 +33,6 @@ Pocket wallet: fastpay
 
 
 <!-- Contact Me -->
- [![Contact Me]
 <div align='left'>
   <a href="https://www.linkedin.com/in/moin-uddin-ahmed/">
     <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
