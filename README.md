@@ -24,12 +24,12 @@ Pocket wallet: fastpay
 
 
 <!-- Github Stats -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=moinEye&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=moinuahmed&show_icons=true&hide_border=true)
 
 
 
 <!-- Top Language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moinEye)](https://github.com/moinEye/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moinuahmed)](https://github.com/moinuahmed/github-readme-stats)
 
 
 <!-- Contact Me -->
@@ -42,10 +42,10 @@ Pocket wallet: fastpay
 
 
 <!--  Visitor Count -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=moinEye.moinEye)
-[![HitCount](https://hits.dwyl.com/moinEye/moinEye.svg)](http://hits.dwyl.com/moinEye/moinEye)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=moinuahmed.moinuahmed)
+[![HitCount](https://hits.dwyl.com/moinuahmed/moinuahmed.svg)](http://hits.dwyl.com/moinuahmed/moinuahmed)
 
 <!--
-**moinEye/moinEye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**moinuahmed/moinuahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
