@@ -3,7 +3,7 @@
 #### I am Moin. I am a software Engineer (SQA). I am now focusing on Automation for both mobile and web application.
 
 <!-- Current Projects -->
-*The research projects I am currently working on:*
+*The projects I am currently working on:*
 
 Pocket wallet: fastpay
 <div align='left'>
