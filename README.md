@@ -4,8 +4,12 @@
 
 <!-- Current Projects -->
 *The research projects I am currently working on:
-[![ReadMe Card](Pocket wallet: fastpay )
-<code><img height="75" src="https://media-exp1.licdn.com/dms/image/C560BAQHGTE2n1x9cZw/company-logo_200_200/0/1607328552375?e=2147483647&v=beta&t=zV9kjQ29PbNsuDSsXBIiefKbW0ceeLNMNoVx3D__H1c"></code>
+<br/>
+Pocket wallet: fastpay
+<div align='center'>
+  <a href="https://www.fast-pay.iq/">
+    <img src="[https://img.icons8.com/color/24/000000/linkedin.png](https://media-exp1.licdn.com/dms/image/C560BAQHGTE2n1x9cZw/company-logo_200_200/0/1607328552375?e=2147483647&v=beta&t=zV9kjQ29PbNsuDSsXBIiefKbW0ceeLNMNoVx3D__H1c)"/>
+  </a>
 
 <br />
 
@@ -31,7 +35,7 @@
 
 <!-- Contact Me -->
 <div align='center'>
-  <a href="https://www.linkedin.com/in/moin-uddin-ahmed/>
+  <a href="https://www.linkedin.com/in/moin-uddin-ahmed/">
     <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
   </a>
   
