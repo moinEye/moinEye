@@ -34,7 +34,7 @@ Pocket wallet: fastpay
 
 
 <!-- Contact Me -->
- ![Contact Me]
+ [![Contact Me]
 <div align='left'>
   <a href="https://www.linkedin.com/in/moin-uddin-ahmed/">
     <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
