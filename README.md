@@ -6,7 +6,7 @@
 *The research projects I am currently working on:
 <br/>
 Pocket wallet: fastpay
-<div align='center'>
+<div align='left'>
   <a href="https://www.fast-pay.iq/">
     <img src="[https://img.icons8.com/color/24/000000/linkedin.png](https://media-exp1.licdn.com/dms/image/C560BAQHGTE2n1x9cZw/company-logo_200_200/0/1607328552375?e=2147483647&v=beta&t=zV9kjQ29PbNsuDSsXBIiefKbW0ceeLNMNoVx3D__H1c)"/>
   </a>
