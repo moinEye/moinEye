@@ -4,7 +4,7 @@
 
 <!-- Current Projects -->
 *The research projects I am currently working on:
-<br/>
+
 Pocket wallet: fastpay
 <div align='left'>
   <a href="https://www.fast-pay.iq/">
