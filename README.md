@@ -3,12 +3,12 @@
 #### I am Moin. I am a software Engineer (SQA). I am now focusing on Automation for both mobile and web application.
 
 <!-- Current Projects -->
-*The research projects I am currently working on:
+![Current Projects]*The research projects I am currently working on:
 
 Pocket wallet: fastpay
 <div align='left'>
   <a href="https://www.fast-pay.iq/">
-    <img src="https://img.icons8.com/color/24/000000/linkedin.png](https://media-exp1.licdn.com/dms/image/C560BAQHGTE2n1x9cZw/company-logo_200_200/0/1607328552375?e=2147483647&v=beta&t=zV9kjQ29PbNsuDSsXBIiefKbW0ceeLNMNoVx3D__H1c)"/>
+    <img src=""https://media-exp1.licdn.com/dms/image/C560BAQHGTE2n1x9cZw/company-logo_200_200/0/1607328552375?e=2147483647&v=beta&t=zV9kjQ29PbNsuDSsXBIiefKbW0ceeLNMNoVx3D__H1c/>
   </a>
 
 <br />
@@ -29,11 +29,12 @@ Pocket wallet: fastpay
 
 
 
-Top Language
+<!-- Top Language -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moinEye)](https://github.com/moinEye/github-readme-stats)
 
 
-Contact Me
+<!-- Contact Me -->
+ ![Contact Me]
 <div align='left'>
   <a href="https://www.linkedin.com/in/moin-uddin-ahmed/">
     <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
@@ -42,7 +43,7 @@ Contact Me
 </div>
 
 
- Visitor Count
+<!--  Visitor Count -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=moinEye.moinEye)
 [![HitCount](https://hits.dwyl.com/moinEye/moinEye.svg)](http://hits.dwyl.com/moinEye/moinEye)
 
