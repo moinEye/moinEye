@@ -28,7 +28,7 @@
 
 
 
-<img height="48" src="images/Selenium.png" alt="Selenium"> <img height="48" src="images/Appium.png" alt="Appium"> <img height="48" src="images/Postman.png" alt="Postman"> <img height="48" src="images/Python.png" alt="python"> <img height="48" src="images/Postgresql.png" alt="Postgresql"> <img height="48" src="img/Github.png" alt="git"> <img height="48" src="images/Bash.png" alt="bash">
+<img height="48" src="images/Selenium.png" alt="Selenium"> <img height="48" src="images/Appium.png" alt="Appium"> <img height="48" src="images/postman.png" alt="Postman"> <img height="48" src="images/Python.png" alt="python"> <img height="48" src="images/Postgresql.png" alt="Postgresql"> <img height="48" src="img/git.png" alt="git"> <img height="48" src="images/bash.png" alt="bash">
 
 
 
