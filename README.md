@@ -6,7 +6,7 @@
 
 
 
-- ✨ Contributing to [[FastPay](https://www.fast-pay.iq/),Dalkurd FF]([https://www.fast-pay.iq/](https://dalkurd.se/)), ZiCharge, Deshi]
+- ✨ Contributing to [[FastPay](https://www.fast-pay.iq/),(https://dalkurd.se/)), ZiCharge, Deshi]
 - :fire: Interested in Automation testing for both web and mobile applications;
 - :calendar: Looking for contributing to python - selenium and appium based open source projects.
 
