@@ -1,4 +1,4 @@
-## Hi 👋, I'm a SQA Engineer working in Dhaka, Bangladesh.
+## Hi 👋, I'm a Software Engineer (SQA) working in Dhaka, Bangladesh.
 
 
 
