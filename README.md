@@ -17,7 +17,7 @@
 
 
 - 🏢 I'm currently working at **Newroz Technologies Limited**
-- ⚙️ I use daily: `.py`, `.jmx`, `.myd`
+- ⚙️ I use daily: `.py`, `.js`, `.psql` 
 - 🌍 I'm mostly active within the **SQA Community**
 - 🌱 Learning all about **Automation**
 - 💬 Ping me about **Selenium**, **Appium**, **Python**, **Postman**, **PostgreSQL**, **Jira**.
